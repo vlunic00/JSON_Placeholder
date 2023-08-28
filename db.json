@@ -25,7 +25,8 @@
         "authorName": "Sara Kovač",
         "authorTitle": "PR Manager",
         "authorPicture": "/images/ai-face-3.webp",
-        "tag": "Infrastructure"
+        "tag": "Infrastructure",
+        "slug": "new-server-built"
       }
    ]
 }
