@@ -19,13 +19,13 @@
         "slug": "new-security-system"
       },
       {
-        "title": "The Benefits of Cloud Hosted Development in 2023",
-        "subtitle": "With every new technology, you either keep up or get left behind",
-        "author": "Bonnie Green",
-        "authorImage": "/images/ai-face-1.jpg",
-        "img": "/images/blog-1.png",
-        "body": "Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
-        "slug": "new-server-built"
+        "title": "New CloudByte Server Built in Germany",
+        "description": "As one of the worlds largest PaaS providers we need servers across the world. With the European market growing at a very fast rate, we've built a new server in Germany to provide even more bandwith to our European clients.",
+        "img": "/images/blog-3.avif",
+        "authorName": "Sara Kovač",
+        "authorTitle": "PR Manager",
+        "authorPicture": "/images/ai-face-3.webp",
+        "tag": "Infrastructure"
       }
    ]
 }
