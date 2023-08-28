@@ -1,3 +1,40 @@
 {
-    "name": "ime"
+   "posts":[
+      {
+         "userId":1,
+         "id":1,
+         "slug":"ssr-explained",
+         "imgSrc":"https://assets-global.website-files.com/5debb9b4f88fbc3f702d579e/60a8313c8d910f78f360ee18_server-side-rendering.png",
+         "title":"How SSR works!",
+         "link":"https://medium.com/@swazza85/ssr-with-react-9cb197cfe380",
+         "body":"SSR stands for Server Side Rendering. It is a technique used to improve the perceived page load times. In a non-SSR scenario, the react app is served up as a bunch of static files. The following steps (more or less) take place before the user can see the first render of the app"
+      },
+      {
+         "userId":1,
+         "id":2,
+         "slug":"vscode-tricks",
+         "link":"https://code.visualstudio.com/docs/getstarted/tips-and-tricks",
+         "imgSrc":"https://i.ytimg.com/vi/ifTF3ags0XI/maxresdefault.jpg",
+         "title":"VSCode tips and tricks!",
+         "body":"Tips and Tricks lets you jump right in and learn how to be productive with Visual Studio Code. You'll become familiar with its powerful editing, code intelligence, and source code control features and learn useful keyboard shortcuts. This topic goes pretty fast and provides a broad overview, so be sure to look at the other in-depth topics in Getting Started and the User Guide to learn more."
+      },
+      {
+         "userId":2,
+         "id":3,
+         "slug":"aboard-of-fireship",
+         "imgSrc":"https://play-lh.googleusercontent.com/nTZoOQ1r2ElzC5WKu-R7xeDv7FnJrCCBhRdoHQY3Px2Z9BbM_n_PVhomxUXP37sXjA",
+         "link":"https://fireship.io/",
+         "title":"Fireship.io: Great WebDev learning platform",
+         "body":"Fireship.io is a gateway drug for developers who want to build awesome web & mobile apps.. Check out the link to find out more!"
+      },
+      {
+         "userId":2,
+         "id":4,
+         "slug":"kevin-css-guru",
+         "link":"https://www.kevinpowell.co/",
+         "imgSrc":"https://scrimba.com/podcast/content/images/2022/05/Kevin-rectangle-1.png",
+         "title":"CSS is awsome (if you know it)",
+         "body":"Hi there! My name is Kevin and I'm a CSS Evangelist. I absolutely love CSS, and I want to help new front-end devs enjoy learning it, and help seasoned vets see how great it really is.Most of my content is over on YouTube, but I also stream on Twitch, and write articles every now and then as well, not to mention my courses."
+      }
+   ]
 }
