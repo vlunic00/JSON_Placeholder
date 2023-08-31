@@ -22,12 +22,12 @@
       },
       {
         "title": "New CloudByte Server Built in Germany",
-        "description": "As one of the worlds largest PaaS providers we need servers across the world. With the European market growing at a very fast rate, we've built a new server in Germany to provide even more bandwith to our European clients.",
-        "img": "/images/blog-3.avif",
-        "authorName": "Sara Kovač",
+        "subtitle": "As one of the worlds largest PaaS providers we need servers across the world. With the European market growing at a very fast rate, we've built a new server in Germany to provide even more bandwith to our European clients.",
+        "author": "Sara Kovač",
+        "authorImage": "/images/ai-face-3.webp",
         "authorTitle": "PR Manager",
-        "authorPicture": "/images/ai-face-3.webp",
-        "tag": "Infrastructure",
+        "img": "/images/blog-3.avif",
+        "body": "Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
         "slug": "new-server-built"
       }
    ]
