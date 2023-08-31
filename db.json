@@ -5,16 +5,18 @@
         "subtitle": "With every new technology, you either keep up or get left behind",
         "author": "Bonnie Green",
         "authorImage": "/images/ai-face-1.jpg",
+        "authorTitle": "Marketing Advisor",
         "img": "/images/blog-1.png",
         "body": "Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
         "slug": "cloud-computing-essential"
       },
       {
         "title":  "Implementing a New State-of-the-Art Security System Across Our Platform",
-        "subtitle": "With every new technology, you either keep up or get left behind",
-        "author": "Bonnie Green",
-        "authorImage": "/images/ai-face-1.jpg",
-        "img": "/images/blog-1.png",
+        "subtitle": "CloudByte is implementing a industry leading security system across it's entire platform. Find out the basics of how one of the worlds best security systems works.",
+        "author": "Ivan Horvat",
+        "authorImage": "/images/ai-face-2.jpg",
+        "authorTitle": "Information Security Analyst",
+        "img": "/images/blog-2.jpeg",
         "body": "Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
         "slug": "new-security-system"
       },
