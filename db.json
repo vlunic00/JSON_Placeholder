@@ -29,6 +29,54 @@
         "img": "/images/blog-3.avif",
         "body": "Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
         "slug": "new-server-built"
-      }
+      },
+      {
+        "title": "Junior Frontend Developer",
+        "subtitle": "We're looking for a Junior Fronted Developer aaaaaa aaaaaaaaaaaa aaaaaaaaaaaaaaa aaaaaaaaaaaaa",
+        "demands": ["Knows about React", "Has a good knowledge of HTML, CSS & JavaScript"],
+        "location": "Split",
+        "offers": ["1400 EUR Gross salary", "An indefinite contract", "Performance reviews every 6 months", "16'' MacBook", "Christmas & Easter bonuses"],
+        "slug": "junior-frontend-split"
+      },
+      {
+       "title": "Senior Backend Developer",
+       "subtitle": "We're looking for a Senior Backend Developer aaaaaa aaaaaaaaaaaa aaaaaaaaaaaaaaa aaaaaaaaaaaaa",
+       "demands": ["6+ years of experience with Node.js", "Is experienced with CI/CD", "Has a good understanding of database best practices and structures"],
+       "location": "Split",
+       "offers": ["4000 EUR Gross salary", "An indefinite contract", "Performance reviews every 6 months", "16'' MacBook", "Christmas & Easter bonuses"],
+       "slug": "senior-backend-split"
+       },
+      {
+       "title": "Senior Full-Stack Engineer",
+       "subtitle": "We're looking for a Senior Full-Stack Engineer aaaaaa aaaaaaaaaaaa aaaaaaaaaaaaaaa aaaaaaaaaaaaa",
+       "demands": ["4+ years of experience","Has good expreience with Node.js and React", "Is experienced with CI/CD", "Is experienced in automation, basic system administration, scaling and product deployment (DevOps)", "Is experienced in API integration, cross-browser development, polyfills and responsive design"],
+       "location": "Split",
+       "offers": ["4000 EUR Gross salary", "An indefinite contract", "Performance reviews every 6 months", "16'' MacBook", "Christmas & Easter bonuses"],
+       "slug": "senior-full-stack-split"
+       },
+      {
+       "title": "Project Manager",
+       "subtitle": "We're looking for a Project Manager aaaaaa aaaaaaaaaaaa aaaaaaaaaaaaaaa aaaaaaaaaaaaa",
+       "demands": ["3+ years of experience","Has good understanding of Business, UX and Tech", "Has a strong desire to shape, build and deliver digital projects", "Is capable of leading a project from start to end"],
+       "location": "Split",
+       "offers": ["3500 EUR Gross salary", "An indefinite contract", "Performance reviews every 6 months", "16'' MacBook", "Christmas & Easter bonuses"],
+       "slug": "project-manager-split"
+       },
+       {
+       "title": "UI/UX Designer",
+       "subtitle": "We're looking for a UI/UX aaaaaa aaaaaaaaaaaa aaaaaaaaaaaaaaa aaaaaaaaaaaaa",
+       "demands": ["1+ year of experience","Familiar with creating user flows and information architecture maps", "Knows his way around Figma", "Has the ability to present his work"],
+       "location": "Split",
+       "offers": ["2500 EUR Gross salary", "An indefinite contract", "Performance reviews every 6 months", "16'' MacBook", "Christmas & Easter bonuses"],
+       "slug": "ui-ux-designer-split"
+       },
+       {
+       "title": "UI/UX Designer",
+       "subtitle": "We're looking for a UI/UX aaaaaa aaaaaaaaaaaa aaaaaaaaaaaaaaa aaaaaaaaaaaaa",
+       "demands": ["1+ year of experience","Familiar with creating user flows and information architecture maps", "Knows his way around Figma", "Has the ability to present his work"],
+       "location": "Zagreb",
+       "offers": ["2500 EUR Gross salary", "An indefinite contract", "Performance reviews every 6 months", "16'' MacBook", "Christmas & Easter bonuses"],
+       "slug": "ui-ux-designer-zagreb"
+       }
    ]
 }
