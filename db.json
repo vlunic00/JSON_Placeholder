@@ -7,7 +7,7 @@
         "authorImage": "/images/ai-face-1.jpg",
         "authorTitle": "Marketing Advisor",
         "img": "/images/blog-1.png",
-        "body": "Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+        "body": "In 2023, cloud computing continues to be a game-changer for businesses, offering unmatched scalability, cost efficiency, and accessibility. It allows organizations to easily adjust computing resources, optimize IT spending, and facilitate remote collaboration. Moreover, the cloud enhances security measures and compliance, ensuring data protection in an increasingly digital world. Its integration with emerging technologies like AI and data analytics empowers data-driven decision-making, while sustainability initiatives make it an eco-friendly choice, cementing its role as an essential tool for businesses striving to succeed in today's competitive landscape.",
         "slug": "cloud-computing-essential"
       },
       {
@@ -17,7 +17,7 @@
         "authorImage": "/images/ai-face-2.jpg",
         "authorTitle": "Information Security Analyst",
         "img": "/images/blog-2.jpeg",
-        "body": "Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+        "body": "Exciting News: At CloudByte, we're thrilled to announce the implementation of our cutting-edge security system, setting a new standard in safeguarding your data and privacy. In an era where digital threats are ever-evolving, we've harnessed the latest advancements in cybersecurity to ensure that your information remains secure, both in transit and at rest. Our commitment to protecting your valuable data is unwavering, and this state-of-the-art security system reinforces our dedication to providing you with the utmost confidence in the safety and integrity of your digital assets. Stay tuned for more updates as we continue to raise the bar in cybersecurity at CloudByte. Your peace of mind is our top priority!",
         "slug": "new-security-system"
       },
       {
@@ -27,12 +27,12 @@
         "authorImage": "/images/ai-face-3.webp",
         "authorTitle": "PR Manager",
         "img": "/images/blog-3.avif",
-        "body": "Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+        "body": "CloudByte is thrilled to announce our latest endeavor in expanding our global infrastructure. We're building a brand-new, state-of-the-art server facility in Germany, further enhancing our commitment to providing high-performance and secure cloud solutions to our valued clients. With this strategic investment, we aim to bring our services even closer to our European customers, ensuring lower latency, improved reliability, and compliance with local data regulations. This new server facility represents a significant milestone in our mission to deliver top-tier cloud services worldwide. Stay tuned for updates on this exciting project, as we continue to grow and evolve to meet your evolving needs. Your success is our motivation!",
         "slug": "new-server-built"
       },
       {
         "title": "Junior Frontend Developer",
-        "subtitle": "We're looking for a Junior Fronted Developer aaaaaa aaaaaaaaaaaa aaaaaaaaaaaaaaa aaaaaaaaaaaaa",
+        "subtitle": "We're looking for a Junior Frontend Developer in our office in Split. Are you passionate about creating stunning and user-friendly web interfaces? Do you have a strong desire to learn and grow in the field of frontend development? If so, we have an exciting opportunity for you!",
         "demands": ["Knows about React", "Has a good knowledge of HTML, CSS & JavaScript"],
         "location": "Split",
         "offers": ["1400 EUR Gross salary", "An indefinite contract", "Performance reviews every 6 months", "16'' MacBook", "Christmas & Easter bonuses"],
@@ -40,7 +40,7 @@
       },
       {
        "title": "Senior Backend Developer",
-       "subtitle": "We're looking for a Senior Backend Developer aaaaaa aaaaaaaaaaaa aaaaaaaaaaaaaaa aaaaaaaaaaaaa",
+       "subtitle": "We're looking for a Senior Backend Developer in our office in Split. We're on the lookout for an experienced and visionary Senior Backend Developer to spearhead our innovation hub and drive our backend development efforts to new heights. If you're a seasoned backend developer with a passion for innovation and a track record of building robust and scalable backend systems, we want to hear from you. Join us in shaping the future of our digital landscape!",
        "demands": ["6+ years of experience with Node.js", "Is experienced with CI/CD", "Has a good understanding of database best practices and structures"],
        "location": "Split",
        "offers": ["4000 EUR Gross salary", "An indefinite contract", "Performance reviews every 6 months", "16'' MacBook", "Christmas & Easter bonuses"],
@@ -48,7 +48,7 @@
        },
       {
        "title": "Senior Full-Stack Engineer",
-       "subtitle": "We're looking for a Senior Full-Stack Engineer aaaaaa aaaaaaaaaaaa aaaaaaaaaaaaaaa aaaaaaaaaaaaa",
+       "subtitle": "We're looking for a Senior Full-Stack Engineer in our office in Split. Are you a versatile and experienced Full Stack Engineer looking for your next career leap? If you're passionate about crafting end-to-end web solutions and thrive in a dynamic and collaborative environment, we have an exciting opportunity for you. Join our team and be a driving force in creating cutting-edge web applications that make a real impact. Your journey to new heights begins here!",
        "demands": ["4+ years of experience","Has good expreience with Node.js and React", "Is experienced with CI/CD", "Is experienced in automation, basic system administration, scaling and product deployment (DevOps)", "Is experienced in API integration, cross-browser development, polyfills and responsive design"],
        "location": "Split",
        "offers": ["4000 EUR Gross salary", "An indefinite contract", "Performance reviews every 6 months", "16'' MacBook", "Christmas & Easter bonuses"],
@@ -56,7 +56,7 @@
        },
       {
        "title": "Project Manager",
-       "subtitle": "We're looking for a Project Manager aaaaaa aaaaaaaaaaaa aaaaaaaaaaaaaaa aaaaaaaaaaaaa",
+       "subtitle": "We're looking for a Project Manager in our office in Split. Are you a skilled Project Manager with a knack for orchestrating complex endeavors to deliver exceptional results? We are seeking a motivated Project Manager to join our team and take charge of steering our projects to success. If you have a proven track record of managing projects, ensuring they stay on track, and delivering outstanding outcomes, we want to hear from you. Join us and be the driving force behind our project excellence.",
        "demands": ["3+ years of experience","Has good understanding of Business, UX and Tech", "Has a strong desire to shape, build and deliver digital projects", "Is capable of leading a project from start to end"],
        "location": "Split",
        "offers": ["3500 EUR Gross salary", "An indefinite contract", "Performance reviews every 6 months", "16'' MacBook", "Christmas & Easter bonuses"],
@@ -64,7 +64,7 @@
        },
        {
        "title": "UI/UX Designer",
-       "subtitle": "We're looking for a UI/UX aaaaaa aaaaaaaaaaaa aaaaaaaaaaaaaaa aaaaaaaaaaaaa",
+       "subtitle": "We're looking for a UI/UX in our office in Split. Are you a creative and detail-oriented UI/UX Designer passionate about shaping user-centric digital experiences? If you have a keen eye for aesthetics, a deep understanding of user behavior, and a talent for crafting intuitive and visually appealing interfaces, we invite you to join our team. Be part of a dynamic environment where your design expertise will play a pivotal role in creating captivating and user-friendly products that leave a lasting impression. Start your journey to redefine user experiences today!",
        "demands": ["1+ year of experience","Familiar with creating user flows and information architecture maps", "Knows his way around Figma", "Has the ability to present his work"],
        "location": "Split",
        "offers": ["2500 EUR Gross salary", "An indefinite contract", "Performance reviews every 6 months", "16'' MacBook", "Christmas & Easter bonuses"],
@@ -72,7 +72,7 @@
        },
        {
        "title": "UI/UX Designer",
-       "subtitle": "We're looking for a UI/UX aaaaaa aaaaaaaaaaaa aaaaaaaaaaaaaaa aaaaaaaaaaaaa",
+       "subtitle": "We're looking for a UI/UX in our office in Zagreb. Are you a creative and detail-oriented UI/UX Designer passionate about shaping user-centric digital experiences? If you have a keen eye for aesthetics, a deep understanding of user behavior, and a talent for crafting intuitive and visually appealing interfaces, we invite you to join our team. Be part of a dynamic environment where your design expertise will play a pivotal role in creating captivating and user-friendly products that leave a lasting impression. Start your journey to redefine user experiences today!",
        "demands": ["1+ year of experience","Familiar with creating user flows and information architecture maps", "Knows his way around Figma", "Has the ability to present his work"],
        "location": "Zagreb",
        "offers": ["2500 EUR Gross salary", "An indefinite contract", "Performance reviews every 6 months", "16'' MacBook", "Christmas & Easter bonuses"],
